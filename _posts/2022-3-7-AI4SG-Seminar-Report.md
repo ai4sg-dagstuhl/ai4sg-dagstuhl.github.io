@@ -3,10 +3,7 @@ layout: post
 title: Artificial Intelligence for Social Good (AI4SG) Seminar at Dagstuhl 2022
 ---
 
-# Artificial Intelligence for Social Good (AI4SG) Seminar at Dagstuhl 2022
-
 Artificial Intelligence (AI) and Machine Learning (ML) researchers from various universities with representatives from NGOs based in Benin, Tanzania, Uganda, The Netherlands and globally came together over a 5-day seminar in Dagstuhl, Germany to pursue various social good goals, such as improving air quality, increasing agricultural productivity with the help of technology, transforming health care, providing humanitarian support, and defeating poverty. The seminar facilitated the exploration of possible collaborations between AI and ML researchers and NGOs through a two-pronged approach. This approach combined high-level talks and discussions on the one hand with a hands-on hackathon on the other hand. High-level talks and discussions focused first on the central concepts and theories in AI and ML and in the NGOs’ development work, before diving into specific issues such as generalisability, data pipelines, and explainability. These talks and discussions allowed all participants – in a very short time-frame – to reach a sufficient level of understanding of each other’s work. This understanding was the basis to then start investigating jointly through a hackathon how AI and ML could help addressing the real-world challenges presented by the NGOs.
-
 
 ## Hackathon 
 
