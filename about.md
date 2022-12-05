@@ -8,5 +8,6 @@ This website is made by and for AI for Social Good enthusiasts, some of which at
 
 ### Contact us
 
-For anything releated to this website, write to [Ruben De Winne](mailto:ruben.dewinne@oxfamnovib.nl)
+For anything releated to this website, write to [Ruben De Winne](mailto:ruben.dewinne@oxfamnovib.nl).
+
 For specific questions on AI4SG projects or expertise, feel free to write to the Dagstuhl seminar participants (see participants list of [2019](https://www.dagstuhl.de/program/calendar/partlist/?semnr=19082) and [2022](https://www.dagstuhl.de/program/calendar/partlist/?semnr=22091&SUOG)).
